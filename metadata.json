@@ -1,0 +1,6 @@
+{
+  "name": "Design Canvas CMS Portfolio",
+  "description": "An elegant, minimalist graphic designer portfolio landing page with a live, interactive CMS side-editor in the styling of Framer and WordPress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
